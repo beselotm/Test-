@@ -6,3 +6,4 @@ def hello(name):
 
 
 helo("Beselot)
+hello("Biruk")
